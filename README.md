@@ -1,2 +1,2 @@
-## Repositorio do desafio de projetos sobre Gt/GitHug da DIO
+## Repositorio do desafio de projetos 
 Desafio de projetos para Git/GitHub
